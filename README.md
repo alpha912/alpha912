@@ -17,7 +17,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/OmniScriptOSF/">
-        <img src="https://avatars.githubusercontent.com/u/180701116?s=200&v=4" width="100px;" alt="OmniScriptOSF"/>
+        <img src="https://github.com/OmniScriptOSF.png" width="100px;" alt="OmniScriptOSF"/>
         <br />
         <sub><b>OmniScriptOSF</b></sub>
       </a>
@@ -26,7 +26,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/local-loop-io/">
-        <img src="https://avatars.githubusercontent.com/u/180701116?s=200&v=4" width="100px;" alt="local-loop-io"/>
+        <img src="https://github.com/local-loop-io.png" width="100px;" alt="local-loop-io"/>
         <br />
         <sub><b>local-loop-io</b></sub>
       </a>
@@ -35,7 +35,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/VibeOS-io">
-        <img src="https://avatars.githubusercontent.com/u/180701116?s=200&v=4" width="100px;" alt="VibeOS-io"/>
+        <img src="https://github.com/VibeOS-io.png" width="100px;" alt="VibeOS-io"/>
         <br />
         <sub><b>VibeOS-io</b></sub>
       </a>
@@ -44,7 +44,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/Universal-AI-Rules">
-        <img src="https://avatars.githubusercontent.com/u/180701116?s=200&v=4" width="100px;" alt="Universal-AI-Rules"/>
+        <img src="https://github.com/Universal-AI-Rules.png" width="100px;" alt="Universal-AI-Rules"/>
         <br />
         <sub><b>Universal-AI-Rules</b></sub>
       </a>
@@ -181,26 +181,14 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Alarm%20Clock.png" alt="Clock" width="30" height="30" /> Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR in [alpha912/codebase-md](https://github.com/alpha912/codebase-md)
-2. 💪 Opened PR in [alpha912/universal-transit-platform](https://github.com/alpha912/universal-transit-platform)
-3. 🗣 Commented on issue in [alpha912/PaperImpact](https://github.com/alpha912/PaperImpact)
-4. 🚀 Published release in [OmniScriptOSF/omniscript-core](https://github.com/OmniScriptOSF/omniscript-core)
-5. 📝 Updated documentation in [local-loop-io/local-loop-platform](https://github.com/local-loop-io/local-loop-platform)
-<!--END_SECTION:activity-->
-
----
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Electric%20Plug.png" alt="Connect" width="30" height="30" /> Let's Connect
 
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alpha912)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alpha912)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/alpha912)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alpha912@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alphinctom/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/alphinctom)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alphinctom@gmail.com)
 
 </div>
 
@@ -209,7 +197,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" height="30" />
   <br>
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/alpha912/alpha912/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -224,25 +212,3 @@
   <br><br>
   <img src="https://ForTheBadge.com/images/badges/built-with-love.svg" />
 </div>
-
-<!-- GitHub Actions Workflow for updating activity -->
-<!-- Create .github/workflows/update-readme.yml:
-
-name: Update README
-
-on:
-  schedule:
-    - cron: '*/30 * * * *' # Runs every 30 minutes
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
-
-    steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
