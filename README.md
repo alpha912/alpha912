@@ -1,8 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hey there, I'm **alpha912**
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Full+Stack+Developer+%7C+Open+Source+Enthusiast;Building+the+Future+of+Transit+%26+Developer+Tools;TypeScript+%7C+Python+%7C+Node.js+Expert" alt="Typing SVG" />
-</div>
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> **Alphin Tom** (alpha912)
 
 <div align="center">
   
@@ -14,36 +10,50 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="30" height="30" /> Organizations I Lead
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> About Me
-
-```typescript
-const alpha912 = {
-    pronouns: "he" | "him",
-    code: ["TypeScript", "Python", "JavaScript", "Java"],
-    currentFocus: "Building innovative developer tools",
-    askMeAbout: ["web dev", "transit systems", "open source"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Vue"],
-            css: ["Tailwind", "Styled Components"]
-        },
-        backEnd: {
-            js: ["Node", "Express", "NestJS"],
-            python: ["FastAPI", "Django"],
-            misc: ["GraphQL", "REST", "WebSockets"]
-        },
-        databases: ["PostgreSQL", "MongoDB", "Redis"],
-        devOps: ["Docker", "K8s", "GitHub Actions", "AWS"],
-        tools: ["VS Code", "Git", "Postman", "Figma"]
-    },
-    architecture: ["Microservices", "Event-Driven", "Serverless"],
-    funFact: "I debug with console.log and I'm not ashamed! 🐛"
-};
-```
-
-<br clear="right"/>
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/OmniScriptOSF/">
+        <img src="https://avatars.githubusercontent.com/u/180701116?s=200&v=4" width="100px;" alt="OmniScriptOSF"/>
+        <br />
+        <sub><b>OmniScriptOSF</b></sub>
+      </a>
+      <br />
+      <img src="https://img.shields.io/badge/Founder-00D9FF?style=flat-square" />
+    </td>
+    <td align="center">
+      <a href="https://github.com/local-loop-io/">
+        <img src="https://avatars.githubusercontent.com/u/180701116?s=200&v=4" width="100px;" alt="local-loop-io"/>
+        <br />
+        <sub><b>local-loop-io</b></sub>
+      </a>
+      <br />
+      <img src="https://img.shields.io/badge/Founder-00D9FF?style=flat-square" />
+    </td>
+    <td align="center">
+      <a href="https://github.com/VibeOS-io">
+        <img src="https://avatars.githubusercontent.com/u/180701116?s=200&v=4" width="100px;" alt="VibeOS-io"/>
+        <br />
+        <sub><b>VibeOS-io</b></sub>
+      </a>
+      <br />
+      <img src="https://img.shields.io/badge/Founder-00D9FF?style=flat-square" />
+    </td>
+    <td align="center">
+      <a href="https://github.com/Universal-AI-Rules">
+        <img src="https://avatars.githubusercontent.com/u/180701116?s=200&v=4" width="100px;" alt="Universal-AI-Rules"/>
+        <br />
+        <sub><b>Universal-AI-Rules</b></sub>
+      </a>
+      <br />
+      <img src="https://img.shields.io/badge/Founder-00D9FF?style=flat-square" />
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
@@ -55,12 +65,10 @@ const alpha912 = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend & Database
@@ -68,7 +76,7 @@ const alpha912 = {
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -179,11 +187,13 @@ const alpha912 = {
 1. 🎉 Merged PR in [alpha912/codebase-md](https://github.com/alpha912/codebase-md)
 2. 💪 Opened PR in [alpha912/universal-transit-platform](https://github.com/alpha912/universal-transit-platform)
 3. 🗣 Commented on issue in [alpha912/PaperImpact](https://github.com/alpha912/PaperImpact)
+4. 🚀 Published release in [OmniScriptOSF/omniscript-core](https://github.com/OmniScriptOSF/omniscript-core)
+5. 📝 Updated documentation in [local-loop-io/local-loop-platform](https://github.com/local-loop-io/local-loop-platform)
 <!--END_SECTION:activity-->
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="30" height="30" /> Connect with Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Electric%20Plug.png" alt="Connect" width="30" height="30" /> Let's Connect
 
 <div align="center">
   
@@ -210,7 +220,7 @@ const alpha912 = {
 
 <div align="center">
   <br>
-  <b>Thanks for visiting my profile! Have a great day! 😄</b>
+  <b>Building the future, one commit at a time 🚀</b>
   <br><br>
   <img src="https://ForTheBadge.com/images/badges/built-with-love.svg" />
 </div>
