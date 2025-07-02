@@ -15,36 +15,36 @@
 <div align="center">
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="25%">
       <a href="https://github.com/OmniScriptOSF/">
-        <img src="https://github.com/OmniScriptOSF.png" width="100px;" alt="OmniScriptOSF"/>
+        <img src="https://github.com/OmniScriptOSF.png" width="80px;" alt="OmniScriptOSF" style="margin-bottom: 10px;"/>
         <br />
         <sub><b>OmniScriptOSF</b></sub>
       </a>
       <br />
       <img src="https://img.shields.io/badge/Founder-00D9FF?style=flat-square" />
     </td>
-    <td align="center">
+    <td align="center" width="25%">
       <a href="https://github.com/local-loop-io/">
-        <img src="https://github.com/local-loop-io.png" width="100px;" alt="local-loop-io"/>
+        <img src="https://github.com/local-loop-io.png" width="80px;" alt="local-loop-io" style="margin-bottom: 10px;"/>
         <br />
         <sub><b>local-loop-io</b></sub>
       </a>
       <br />
       <img src="https://img.shields.io/badge/Founder-00D9FF?style=flat-square" />
     </td>
-    <td align="center">
+    <td align="center" width="25%">
       <a href="https://github.com/VibeOS-io">
-        <img src="https://github.com/VibeOS-io.png" width="100px;" alt="VibeOS-io"/>
+        <img src="https://github.com/VibeOS-io.png" width="80px;" alt="VibeOS-io" style="margin-bottom: 10px;"/>
         <br />
         <sub><b>VibeOS-io</b></sub>
       </a>
       <br />
       <img src="https://img.shields.io/badge/Founder-00D9FF?style=flat-square" />
     </td>
-    <td align="center">
+    <td align="center" width="25%">
       <a href="https://github.com/Universal-AI-Rules">
-        <img src="https://github.com/Universal-AI-Rules.png" width="100px;" alt="Universal-AI-Rules"/>
+        <img src="https://github.com/Universal-AI-Rules.png" width="80px;" alt="Universal-AI-Rules" style="margin-bottom: 10px;"/>
         <br />
         <sub><b>Universal-AI-Rules</b></sub>
       </a>
@@ -197,17 +197,23 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" height="30" />
   <br>
-  <img src="https://raw.githubusercontent.com/alpha912/alpha912/output/github-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alpha912/alpha912/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alpha912/alpha912/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/alpha912/alpha912/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=3000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=60&lines=INSUFFICIENT+DATA+FOR+MEANINGFUL+ANSWER;Let+there+be+light!+-+The+Last+Question" alt="The Last Question Quote" />
+  <br>
+  <br>
 </div>
 
 <div align="center">
-  <br>
   <b>Building the future, one commit at a time 🚀</b>
   <br><br>
   <img src="https://ForTheBadge.com/images/badges/built-with-love.svg" />
